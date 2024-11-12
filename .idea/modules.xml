@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/project_2/Exp2_3/Exp2_3.iml" filepath="$PROJECT_DIR$/project_2/Exp2_3/Exp2_3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/project_2/Exp2_6/Exp2_6.iml" filepath="$PROJECT_DIR$/project_2/Exp2_6/Exp2_6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/project_2/Exp2_7/Exp2_7.iml" filepath="$PROJECT_DIR$/project_2/Exp2_7/Exp2_7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/project_3/Exp3_5/Exp3_5.iml" filepath="$PROJECT_DIR$/project_3/Exp3_5/Exp3_5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/JavaCode.iml" filepath="$PROJECT_DIR$/.idea/JavaCode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/project_2/exp2_1/exp2_1.iml" filepath="$PROJECT_DIR$/project_2/exp2_1/exp2_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/project_2/exp2_2/exp2_2.iml" filepath="$PROJECT_DIR$/project_2/exp2_2/exp2_2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/project_2/exp2_4/exp2_4.iml" filepath="$PROJECT_DIR$/project_2/exp2_4/exp2_4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/project_2/exp2_5/exp2_5.iml" filepath="$PROJECT_DIR$/project_2/exp2_5/exp2_5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/project_3/exp3_2/exp3_2.iml" filepath="$PROJECT_DIR$/project_3/exp3_2/exp3_2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/project_3/exp3_3/exp3_3.iml" filepath="$PROJECT_DIR$/project_3/exp3_3/exp3_3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/project_3/exp3_4/exp3_4.iml" filepath="$PROJECT_DIR$/project_3/exp3_4/exp3_4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/project_1/project_1.iml" filepath="$PROJECT_DIR$/project_1/project_1.iml" />
+    </modules>
+  </component>
+</project>
