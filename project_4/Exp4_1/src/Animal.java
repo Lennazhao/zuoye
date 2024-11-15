@@ -1,15 +1,22 @@
 public class Animal {
     private String name;
     private int age;
-    public final  String CoLOR = "黑色";
-    public String getName(){
+    public final  String COLOR = "黑色";
+
+
+    public String getName() {
         return name;
     }
-    public void SetName(String name){
+
+    public void setName(String name) {
         this.name = name;
     }
-    public int getAge(){
+
+    public int getAge() {
         return age;
     }
 
+    public void setAge(int age) {
+        this.age = age;
+    }
 }
