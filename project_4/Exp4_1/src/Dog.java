@@ -4,7 +4,7 @@ class Dog extends Animal{
         return color;
     }
 
-    public void setColor(String  color){
+    public void setColor(String color){
         this.color = color;
     }
 }
